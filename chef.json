@@ -5,7 +5,8 @@
       "name": "Nayeem Ashraf",
       "experience": "10 years",
       "recipes": 3,
-      "likes": 500
+      "likes": 500,
+      "bio": "As a professional chef with over a decade of experience, I have honed my skills in creating delectable dishes that are both visually appealing and full of flavor. My passion for cooking started at a young age, and I have since then dedicated my life to mastering the art of culinary creations. I believe that the key to cooking is the use of fresh, high-quality ingredients that bring out the best in any dish. With my extensive knowledge of cooking techniques, I can turn even the simplest ingredients into a mouthwatering feast."
     },
     {
      "id":2,
@@ -13,7 +14,9 @@
       "name": "Keka Ferdousi",
       "experience": "8 years",
       "recipes": 40,
-      "likes": 20
+      "likes": 20,
+      "bio": "My journey as a chef began with a love for experimenting with flavors and textures. As I progressed in my career, I learned to create dishes that not only taste great but also look beautiful on the plate. I believe that presentation is as important as taste when it comes to food, and my artistic flair is reflected in my creations. With a focus on using locally sourced and sustainable ingredients, I strive to create dishes that are not only delicious but also good for the planet."
+
     },
     {
         "id":3,
@@ -21,7 +24,8 @@
       "name": "Ohiduzzaman",
       "experience": "6 years",
       "recipes": 3,
-      "likes": 400
+      "likes": 400,
+      "bio": "I am a self-taught chef who has a passion for creating innovative dishes that push the boundaries of traditional cuisine. My approach to cooking is to experiment with different ingredients and techniques, and to never be afraid to try something new. I believe that food is an art form, and my dishes are an expression of my creativity. With my unique blend of flavors and textures, I aim to create a memorable dining experience for my guests."
     },
     {
         "id":4,
@@ -29,7 +33,9 @@
       "name": "Chef Asad",
       "experience": "5 years",
       "recipes": 3,
-      "likes": 350
+      "likes": 350,
+      "bio": "My love for cooking started as a child, watching my grandmother prepare traditional family recipes. I have since then trained in various cuisines and cooking techniques, and have worked in some of the world's most prestigious kitchens. My style of cooking is centered around simplicity and allowing the natural flavors of the ingredients to shine. I believe that good food should be accessible to everyone, and I am constantly striving to create dishes that are both affordable and delicious."
+
     },
     {
         "id":5,
@@ -37,7 +43,8 @@
       "name": "james rozario",
       "experience": "4 years",
       "recipes": 3,
-      "likes": 300
+      "likes": 300,
+      "bio": "As a pastry chef, I have a passion for creating desserts that are both visually stunning and delicious. I believe that desserts should not only be a treat for the taste buds, but also for the eyes. My creations are often inspired by nature, and I love incorporating fresh fruits and flowers into my desserts. With a focus on using natural, wholesome ingredients, I strive to create desserts that are indulgent but also good for you."
     },
     {
         "id":6,
@@ -45,6 +52,7 @@
       "name": "Chef Mirza",
       "experience": "2 years",
       "recipes": 3,
-      "likes": 250
+      "likes": 250,
+      "bio": "My philosophy as a chef is to create dishes that are both healthy and flavorful. I believe that food should not only taste good but also be good for you. My dishes are inspired by my travels and my love for global cuisine. I use a variety of spices and herbs to create bold, complex flavors that are both satisfying and nourishing. With a focus on using fresh, seasonal ingredients, I strive to create dishes that are both delicious and good for your body."
     }
   ]

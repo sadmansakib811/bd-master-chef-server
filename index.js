@@ -6,9 +6,20 @@ const port = process.env.PORT || 5000
 
 const chef = require('./chef.json')
 const ranna = require('./ranna.json')
+
+
+
 app.get('/', (req, res) => {
   res.send('chef is cooking')
 })
+app.get('/chefbio/:id',(req, res)=>{
+  const id = req.params.id;
+  console.log(id);
+  const selectedNews = chef.find(n=> n.id==id);
+  res.send(selectedNews)
+})
+
+
 // getting chef card details:
 app.get('/chef', (req, res) => {
     res.send(chef)
