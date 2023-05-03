@@ -42,6 +42,14 @@ app.get('/chef', (req, res) => {
     
   })
 
+  // get individual recipes:
+  app.get('/fullRecipe/:id',(req, res)=>{
+    const id = req.params.id;
+    console.log(id);
+    const selectedNews = ranna.find(n=> n.recipe_id==id);
+    res.send(selectedNews)
+  })
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
